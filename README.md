@@ -2,6 +2,9 @@
 
 This is repository for Ksema Client SDK Golang
 
+### Requirement
+Golang 1.24
+
 ### How to Use
 Run command <b>go get github.com/suhailiealx/ksema-sdk-go</b> in your golang folder
 
